@@ -1,8 +1,8 @@
-percentageVal = 43
-number = 100
+const percentageVal = 43
+const number = 897
 
 function percentage(per, num){
-    let operation = (num * (per/100));
+    let operation = ((num * per) / 100);
 
     return operation
 }

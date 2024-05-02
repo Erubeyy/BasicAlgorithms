@@ -11,4 +11,4 @@
     return result
  }
 
- console.log(censored("erubey hola soy erubey alexis adios erubey", "erubey"));
+ console.log(censored("erubey hola soy ERUBEY alexis adios erubey", "erubey"));

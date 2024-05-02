@@ -4,4 +4,4 @@ function palindrome(text){
     return reverted === text;
 }
 
-console.log(palindrome('otto') ? 'It is palindrome' : 'It isnt palindrome');
+console.log(palindrome('otto') ? 'It is palindrome' : "It isn't palindrome");
